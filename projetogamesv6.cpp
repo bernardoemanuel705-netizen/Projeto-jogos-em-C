@@ -183,7 +183,7 @@ int main()
                     limpar_tela();
                     printf("===== COBRA NA CAIXA =====\n\n");
 
-                    char *nomes[7] = {"Arthur", "Bernardo", "Carlos", "Diana", "Eduardo", "Fernanda", "Gabriel"};
+                    char *nomes[7] = {"indiana(nao jones)", "Lara", "Nathan", "juninho", "cleiton", "jeffrey", "bing chilling"};
 
                     printf("--- Escolha de Nomes ---\n\n");
 
